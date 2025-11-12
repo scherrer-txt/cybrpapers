@@ -1,7 +1,9 @@
 ![Cybrpapers banner](./banner.jpg)
 
-> Hand-crafted wallpapers in a visual style inspired by the UI design language and color palette popularized by **Cyberpunk 2077**.  
-> Mimicking the way ambient light reflects off digital surfaces.
+> Collection of hand-crafted wallpapers in a visual style inspired by the UI design language and color palette popularized by **Cyberpunk 2077**.  
+> Mimicking the way ambient light reflects on screen surfaces.
+
+You can download the [wallpapers are here](https://github.com/scherrer-txt/cybrpapers/tree/main/wallpapers).
 
 ---
 
