@@ -6,7 +6,7 @@
 [![Download](./assets/download.png)](./wallpapers)
 [![Tutorial](./assets/tutorial.png)](./make-your-own.md)
 
-Current dimensions: **2560×1440** (QHD)
+Current sizes: **2560×1440** (QHD) only
 
 ---
 
