@@ -51,8 +51,6 @@ Current sizes: **2560×1440** (QHD) only
     - 1344×2992   (Pixel 8 Pro)
 - [ ] Create more wallpapers
 
-
-
 ---
 
 ## Disclaimer
