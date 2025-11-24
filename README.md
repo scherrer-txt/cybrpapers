@@ -3,27 +3,24 @@
 > Collection of hand-crafted wallpapers in a visual style inspired by the UI design language and color palette popularized by **Cyberpunk 2077**.  
 > Mimicking the way ambient light reflects on screen surfaces.
 
+![Showcase](./assets/cybrpapers-showcase.png)
+
 [![Download](./assets/download.png)](./wallpapers)
 [![Tutorial](./assets/tutorial.png)](./make-your-own.md)
 
-Current sizes: **2560×1440** (QHD) only
+### Provided formats:
+- JPG
+- PNG
+
+### Supported resolutions:
+- Desktop: [7680×4320](./wallpapers/7680x4320), [3840×2160](./wallpapers/3840x2160), [2560×1440](./wallpapers/2560x1440), [1920×1080](./wallpapers/1920x1080), [1600x900](./wallpapers/1600x900), [1366x768](./wallpapers/1366x768), [1280x720](./wallpapers/1280x720)
+- Apple: [5120×2880](./wallpapers/5120x2880), [4480×2520](./wallpapers/4480x2520), [3456×2234](./wallpapers/3456x2234), [2880×1864](./wallpapers/2880x1864), [3024×1964](./wallpapers/3024x1964), [2560×1600](./wallpapers/2560x1600)
 
 ---
 
 ## To-do
 - [ ] Support for more devices
-  - Desktop
-    - 1920×1080   (FHD)
-    - 3840×2160   (4K)
-    - 7680×4320   (8K)
-  - MacBook
-    - 2560×1600   (13” Air M1, M2, M3; Pro M1, M2)
-    - 3024×1964   (14” M1 Pro/Max, M2 Pro/Max, M3 Pro/Max)
-    - 2880×1864   (15” Air M2, M3)
-    - 3456×2234   (16” M1 Pro/Max, M2 Pro/Max, M3 Pro/Max)
-  - iMac
-    - 4480×2520   (24”)
-    - 5120×2880   (27”)
+  - Ultra-wide desktop
   - iPhone
     - 640×1136    (SE 2016)
     - 750×1334    (6, 6s, 7, 8, SE 2020)
@@ -50,6 +47,25 @@ Current sizes: **2560×1440** (QHD) only
     - 1440×3200   (One Plus 12, Xiaomi 14 Pro)
     - 1344×2992   (Pixel 8 Pro)
 - [ ] Create more wallpapers
+
+## Done
+- Support for:
+  - Desktop
+    - [x] 1280×720    (WXGA)
+	- [x] 1366×768    (WXGA HD)
+	- [x] 1600×900    (HD+)
+	- [x] 1920×1080   (FHD)
+	- [x] 2560×1440   (QHD)
+    - [x] 3840×2160   (4K)
+    - [x] 7680×4320   (8K)
+  - MacBook
+    - [x] 2560×1600   (13” Air M1, M2, M3; Pro M1, M2)
+    - [x] 3024×1964   (14” M1 Pro/Max, M2 Pro/Max, M3 Pro/Max)
+    - [x] 2880×1864   (15” Air M2, M3)
+    - [x] 3456×2234   (16” M1 Pro/Max, M2 Pro/Max, M3 Pro/Max)
+  - iMac
+    - [x] 4480×2520   (24”)
+    - [x] 5120×2880   (27”)
 
 ---
 
