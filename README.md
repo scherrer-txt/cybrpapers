@@ -15,7 +15,7 @@
 ## Wallpapers
 
 <div>
-  <a href="./assets/samurai-button.png">
+  <a href="./wallpapers/samurai/">
   <img src="./assets/samurai-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -72,7 +72,7 @@
 <br>
 
 <div>
-  <a href="./assets/shibuya-button.png">
+  <a href="./wallpapers/shibuya/">
   <img src="./assets/shibuya-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -128,7 +128,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/shinjuku-button.png">
+  <a href="./wallpapers/shinjuku/">
   <img src="./assets/shinjuku-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -184,7 +184,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/chiyoda-button.png">
+  <a href="./wallpapers/chiyoda/">
   <img src="./assets/chiyoda-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -240,7 +240,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/minato-button.png">
+  <a href="./wallpapers/minato/">
   <img src="./assets/minato-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -296,7 +296,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/yoyogi-button.png">
+  <a href="./wallpapers/yoyogi/">
   <img src="./assets/yoyogi-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -352,7 +352,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/roppongi-button.png">
+  <a href="./wallpapers/roppongi/">
   <img src="./assets/roppongi-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -408,7 +408,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/taito-button.png">
+  <a href="./wallpapers/taito/">
   <img src="./assets/taito-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -464,7 +464,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/ikebukuro-button.png">
+  <a href="./wallpapers/ikebukuro/">
   <img src="./assets/ikebukuro-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -520,7 +520,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/asakusa-button.png">
+  <a href="./wallpapers/asakusa/">
   <img src="./assets/asakusa-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -576,7 +576,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/harajuku-button.png">
+  <a href="./wallpapers/harajuku/">
   <img src="./assets/harajuku-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
@@ -632,7 +632,7 @@
 </div>
 <br>
 <div>
-  <a href="./assets/akihabara-button.png">
+  <a href="./wallpapers/akihabara/">
   <img src="./assets/akihabara-button.png"/></a>
   <table>
   <tr><td colspan="5"><strong>Desktop</strong></td></tr>
