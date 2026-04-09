@@ -1,16 +1,23 @@
-![Cybrland banner](./assets/banner.jpg)
+<img src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/repo-banners/cybrpapers-banner.png" height=200px/>
+
 <p align="center">
   <a href="https://stand-with-ukraine.pp.ua/">
     <img alt="standwithukraine" src="https://img.shields.io/badge/Support-Ukraine-FFC93C?style=flat-square&labelColor=07689F">
   </a>
 </p>
 
-> [!NOTE]  
-> # Cybrpapers
-> Collection of hand-crafted cyberpunk wallpapers, that mimic the way ambient light reflects on screen surfaces  
+# Cybrpapers
+> [!NOTE]
+> **Lucid wallpaper collection**  
+> Hand-crafted to mimic the way ambient light reflects on screen surfaces    
 > 
 > **Version:** v2.0.0  
 > **Status:** Stable (2026-04-02)  
+
+## Related `cybrcore` Projects
+- [cybrdots](https://github.com/cybrcore/cybrdots) -- Dotfiles for Arch Linux  
+- [cybrcolors](https://github.com/cybrcore/cybrcolors) -- Custom color palette  
+- [cybrcore](https://github.com/cybrcore/cybrcore) -- The foundry  
 
 ## Wallpapers
 
