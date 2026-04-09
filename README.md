@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Cybrpapers
+# cybrpapers
 > [!NOTE]
 > **Lucid wallpaper collection**  
 > Hand-crafted to mimic the way ambient light reflects on screen surfaces    
@@ -17,7 +17,7 @@
 ## Related `cybrcore` Projects
 - [cybrdots](https://github.com/cybrcore/cybrdots) -- Dotfiles for Arch Linux  
 - [cybrcolors](https://github.com/cybrcore/cybrcolors) -- Custom color palette  
-- [cybrcore](https://github.com/cybrcore/cybrcore) -- The foundry  
+- [cybrcore](https://github.com/cybrcore/cybrcore) -- The source  
 
 ## Wallpapers
 
