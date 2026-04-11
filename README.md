@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/repo-banners/cybrpapers-banner.png" height=200px/>
+<img src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/repo-banners/cybrpapers-banner-top.png"/>
 
 <p align="center">
   <a href="https://stand-with-ukraine.pp.ua/">
