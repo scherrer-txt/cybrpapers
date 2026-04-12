@@ -74,6 +74,9 @@
       <td><a href="./wallpapers/samurai/samurai-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/samurai/samurai-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/samurai-v2.0.0.zip"><img alt="Download Samurai" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-samurai.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -131,6 +134,9 @@
       <td><a href="./wallpapers/shibuya/shibuya-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/shibuya/shibuya-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/shibuya-v2.0.0.zip"><img alt="Download Shibuya" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-shibuya.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -186,6 +192,9 @@
       <td><a href="./wallpapers/shinjuku/shinjuku-828x1792.jpg">828x1792</a></td>
       <td><a href="./wallpapers/shinjuku/shinjuku-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/shinjuku/shinjuku-640x1136.jpg">640x1136</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/shinjuku-v2.0.0.zip"><img alt="Download shinjuku" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-shinjuku.png"></a></td>
     </tr>
   </table>
 </div>
@@ -243,6 +252,9 @@
       <td><a href="./wallpapers/chiyoda/chiyoda-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/chiyoda/chiyoda-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/chiyoda-v2.0.0.zip"><img alt="Download chiyoda" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-chiyoda.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -298,6 +310,9 @@
       <td><a href="./wallpapers/minato/minato-828x1792.jpg">828x1792</a></td>
       <td><a href="./wallpapers/minato/minato-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/minato/minato-640x1136.jpg">640x1136</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/minato-v2.0.0.zip"><img alt="Download minato" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-minato.png"></a></td>
     </tr>
   </table>
 </div>
@@ -355,6 +370,9 @@
       <td><a href="./wallpapers/yoyogi/yoyogi-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/yoyogi/yoyogi-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/yoyogi-v2.0.0.zip"><img alt="Download yoyogi" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-yoyogi.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -410,6 +428,9 @@
       <td><a href="./wallpapers/roppongi/roppongi-828x1792.jpg">828x1792</a></td>
       <td><a href="./wallpapers/roppongi/roppongi-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/roppongi/roppongi-640x1136.jpg">640x1136</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/roppongi-v2.0.0.zip"><img alt="Download roppongi" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-roppongi.png"></a></td>
     </tr>
   </table>
 </div>
@@ -467,6 +488,9 @@
       <td><a href="./wallpapers/taito/taito-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/taito/taito-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/taito-v2.0.0.zip"><img alt="Download taito" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-taito.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -522,6 +546,9 @@
       <td><a href="./wallpapers/ikebukuro/ikebukuro-828x1792.jpg">828x1792</a></td>
       <td><a href="./wallpapers/ikebukuro/ikebukuro-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/ikebukuro/ikebukuro-640x1136.jpg">640x1136</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/ikebukuro-v2.0.0.zip"><img alt="Download ikebukuro" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-ikebukuro.png"></a></td>
     </tr>
   </table>
 </div>
@@ -579,6 +606,9 @@
       <td><a href="./wallpapers/asakusa/asakusa-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/asakusa/asakusa-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/asakusa-v2.0.0.zip"><img alt="Download asakusa" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-asakusa.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -634,6 +664,9 @@
       <td><a href="./wallpapers/harajuku/harajuku-828x1792.jpg">828x1792</a></td>
       <td><a href="./wallpapers/harajuku/harajuku-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/harajuku/harajuku-640x1136.jpg">640x1136</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/harajuku-v2.0.0.zip"><img alt="Download harajuku" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-harajuku.png"></a></td>
     </tr>
   </table>
 </div>
@@ -691,6 +724,9 @@
       <td><a href="./wallpapers/akihabara/akihabara-750x1334.jpg">750x1334</a></td>
       <td><a href="./wallpapers/akihabara/akihabara-640x1136.jpg">640x1136</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cybrcore/cybrpapers/releases/download/v2.0.0/akihabara-v2.0.0.zip"><img alt="Download akihabara" src="https://raw.githubusercontent.com/cybrcore/cybrcore/refs/heads/main/assets/buttons/button-download-akihabara.png"></a></td>
+    </tr>
   </table>
 </div>
 <br>
@@ -702,6 +738,7 @@
 - [ ] Add Setagaya
 - [ ] Add Ueno
 - [ ] Ultra-wide desktop support
+- [x] Create a "Release" zip for each wallpaper for easy downloading
 - [x] **Harajuku added**
 - [x] **Akihabara added**
 - [x] **Asakusa added**
@@ -728,15 +765,3 @@
   - 16in M1 Pro/Max, M2 Pro/Max, M3 Pro/Max
 - [x] **Desktop support**
   - WXGA, WXGA HD, HD+, FHD, QHD, 4K, 8K
-
----
-
-## Disclaimer
-
-This project is an independent, fan-inspired art collection.  
-It is **not affiliated with, endorsed by, or sponsored by CD PROJEKT RED** or *Cyberpunk 2077*.
-
-All images in this repository are original works created by **Kevin Scherrer**, released under the  
-**[CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/)** license.
-
-Use, remix, and share freely. Attribution is appreciated but not required.
